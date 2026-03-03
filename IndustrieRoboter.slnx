@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Klassenbibliothek_Industrieroboter/Klassenbibliothek_Industrieroboter.csproj" />
+  <Project Path="RobotControl_WinForms/RobotControl_WinForms.csproj" />
+</Solution>
